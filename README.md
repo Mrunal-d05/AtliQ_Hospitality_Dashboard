@@ -39,16 +39,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Revenue View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src="https://github.com/Mrunal-d05/AtliQ_Hospitality_Dashboard/blob/main/Resources/image3.png" width="600">
 </p>
 
 ## Learnt things from this Project 
-- Learnt to build a decomposition tree visual, which can be utilized to break down the revenue based on category,location and booking platform. ([Article referred](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
+- Learnt to build a decomposition tree visual, which can be utilized to break down the revenue based on category,location and booking 
+  platform. [Article referred](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
 - Detected seasonal fluctuations in occupancy and revenue, supporting forecasting and demand planning.
 - Learned critical hospitality metrics like:
-   Revenue per Available Room (RevPAR) – Assessed profitability based on room availability.
-   Average Daily Rate (ADR) – Evaluated pricing strategies and revenue potential.
-   DSRN & DBRN – Analyzed demand and booking trends to optimize occupancy.
+  1. Revenue per Available Room (RevPAR) – Assessed profitability based on room availability.
+  2. Average Daily Rate (ADR) – Evaluated pricing strategies and revenue potential.
+  3. DSRN & DBRN – Analyzed demand and booking trends to optimize occupancy.
 
 ## Some Important insights from the Dashboard
 
